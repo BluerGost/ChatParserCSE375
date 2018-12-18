@@ -1,0 +1,12 @@
+->Run the Following Command in the Console To start the Project:
+antlr4 Project.g4
+javac Project*.java
+grun Project chat -gui
+
+
+->Sample Input:
+Kevin Says: @Rakin How are you doing today :) 
+Rakin Shouts: @Kevin What is 10+20 :p
+Kavin Says: @Rakin Its the same as 10*3
+Rakin Says: Well done (y)
+ctrl+Z
